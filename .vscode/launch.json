@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/ismael/Documents/programs/gaussfilter_generator/gaussianFilter",
-      "program": "/home/ismael/Documents/programs/gaussfilter_generator/gaussianFilter/build/Debug/outDebug",
+      "cwd": "/home/ismael/Documents/programs/gaussian_filter",
+      "program": "/home/ismael/Documents/programs/gaussian_filter/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "/usr/bin/gdb",
       "setupCommands": [
